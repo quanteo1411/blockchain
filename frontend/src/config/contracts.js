@@ -1,0 +1,3 @@
+export const TOKEN_A_ADDRESS = '0xc0b09951c382BC7E13c7156Db5b75dca0015dd45';
+export const TOKEN_B_ADDRESS = '0xa328A158B90881AC51d33e812956c2Fe728a11BE';
+export const STAKING_CONTRACT_ADDRESS = '0xYourStakingContractAddressHere';
